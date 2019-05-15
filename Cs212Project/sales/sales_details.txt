@@ -1,0 +1,8 @@
+111 001 mercy Anthem 1 1000 1000
+112 002 mercy Farcry 1 500 500
+112 003 cris DeathStranding 1 43 43
+112 004 mercy FinalFantasy7Remake 1 42 42
+112 005 mercy DragonQuest11 3 42 126
+112 006 mercy Godofwar 4 42 168
+112 007 mercy LastofUs2 5 42 210
+112 008 cris MarioTennisAces 1 42 42

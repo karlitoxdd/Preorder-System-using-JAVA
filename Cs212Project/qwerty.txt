@@ -1,0 +1,4 @@
+MarioTennisAces 1 500
+MountandBlades2 1 500
+ShadowoftheColossus 1 500
+Spiderman 1 500
